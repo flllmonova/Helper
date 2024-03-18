@@ -1,4 +1,4 @@
-<u>always add type for button</u>
+> always add type for button  
 there are 3 types: submit, reset and button.  
 submit and reset rely with form.  
 
