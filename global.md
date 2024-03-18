@@ -19,7 +19,10 @@ h3,
 h4,
 h5,
 h6,
-p {
+p,
+ol,
+ul,
+blockquote {
   margin: 0;
   padding: 0;
 }
