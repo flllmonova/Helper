@@ -25,6 +25,6 @@ p {
 }
 
 a {
-  color: inherit
+  color: inherit /* link will inherit color from text*/
 }
 ```
