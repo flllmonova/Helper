@@ -3,8 +3,8 @@ to declaration fonts in file **fonts.css**
 @font-face {  
   font-family: 'Raleway';  
   src:  
-    url(./Raleway-Regular.woff2) format(woff2),  
-    url(./Raleway-Regular.woff) format(woff);  
+      url(./Raleway-Regular.woff2) format(woff2),  
+      url(./Raleway-Regular.woff) format(woff);  
   font-weight: 400;  
   font-style: normal;   
   font-display: swap;  
