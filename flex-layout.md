@@ -1,4 +1,4 @@
-styles for list of cards
+1. styles for list of cards
 ```css
 .container {
   display: flex;
@@ -12,7 +12,7 @@ styles for list of cards
 }
 ```
 
-> layout for cards list
+layout for cards list
 ```html
 <ul class="lots__card-list">
   <li class="lots__card-list-item">
@@ -38,4 +38,16 @@ styles for list of cards
     </a>
   </li>
 </ul>
+```
+
+2. стили для центрирования блока
+```css
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 850px;
+  min-height: 100vh;
+  marfgin: 0;
+}
 ```
